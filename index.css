@@ -766,3 +766,9 @@ img.graph {
         width: 85vw;
     }
 }
+
+@media (min-width: 1000px) {
+    .home-container {
+        height: 600px;
+    }
+}
