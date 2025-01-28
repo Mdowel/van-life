@@ -100,6 +100,21 @@ footer {
     transition: transform 0.1s ease-in-out;
 }
 
+.logout-btn {
+    background-color: #ff8c38;
+    font-weight: bold;
+    height: 2em;
+    width: 2em;
+    border-radius: 30%;
+    border: none;
+    transform: translateY(-100%);
+}
+
+.logout-btn:hover {
+    color: #ffddb2;
+    cursor: pointer;
+}
+
 .back-button {
     display: block;
     color: black;
