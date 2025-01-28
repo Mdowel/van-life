@@ -791,10 +791,16 @@ img.graph {
     .van-detail-container {
         max-width: 800px;
         margin: 0 auto;
+        font-size: 1.15rem;
+        letter-spacing: .25px;
     } 
 
     .van-detail > img {
         max-width: 500px;
         margin: 3em auto;
+    }
+
+    .link-button {
+        margin-top: 1.25em;
     }
 }
