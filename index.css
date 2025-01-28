@@ -803,4 +803,12 @@ img.graph {
     .link-button {
         margin-top: 1.25em;
     }
+
+    .login-form > input:first-of-type {
+        margin-top: 1.5em;
+    }
+    
+    .login-form > input:last-of-type {
+        margin-bottom: 1em;
+    }
 }
